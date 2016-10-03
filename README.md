@@ -1,2 +1,2 @@
-# ReactBoxesExample
-React Boxes Example
+# React Boxes Example
+An easy example of react
